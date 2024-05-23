@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\NumerosEnParalelos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45568904-6230-4D59-B7D3-B2A6EF923434}|NumerosEnParalelos\\NumerosEnParalelo.csproj|c:\\users\\laem0\\desktop\\cursos\\utesa\\c#\\numerosenparalelos\\numerosenparalelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45568904-6230-4D59-B7D3-B2A6EF923434}|NumerosEnParalelos\\NumerosEnParalelo.csproj|solutionrelative:numerosenparalelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\NumerosEnParalelos\\NumerosEnParalelos\\Program.cs",
+              "RelativeDocumentMoniker": "NumerosEnParalelos\\Program.cs",
+              "ToolTip": "C:\\Users\\Laem0\\Desktop\\Cursos\\utesa\\C#\\NumerosEnParalelos\\NumerosEnParalelos\\Program.cs",
+              "RelativeToolTip": "NumerosEnParalelos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:47:48.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

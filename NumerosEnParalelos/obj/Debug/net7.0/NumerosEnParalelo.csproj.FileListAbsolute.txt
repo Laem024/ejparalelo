@@ -1,0 +1,14 @@
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\bin\Debug\net7.0\NumerosEnParalelo.exe
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\bin\Debug\net7.0\NumerosEnParalelo.deps.json
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\bin\Debug\net7.0\NumerosEnParalelo.runtimeconfig.json
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\bin\Debug\net7.0\NumerosEnParalelo.dll
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\bin\Debug\net7.0\NumerosEnParalelo.pdb
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.AssemblyInfoInputs.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.AssemblyInfo.cs
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.csproj.CoreCompileInputs.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.dll
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\refint\NumerosEnParalelo.dll
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.pdb
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\NumerosEnParalelo.genruntimeconfig.cache
+C:\Users\Laem0\Desktop\Cursos\utesa\C#\NumerosEnParalelos\NumerosEnParalelos\obj\Debug\net7.0\ref\NumerosEnParalelo.dll
